@@ -1,4 +1,3 @@
-<!-- ⚠️ Replace every YOUR_USERNAME with your GitHub username, and YOUR_LINKEDIN / YOUR_PORTFOLIO_URL with your real links. -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:0d6efd,100:00d4ff&height=220&section=header&text=Hamza%20Amhidi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineering%20Student%20%7C%20SOC%20Analyst%20%7C%20DevSecOps&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
 
